@@ -58,6 +58,17 @@ A visual password strength indicator control powered by SkiaSharp, designed to p
   />
 </a>
 
+## ❯ CONTRIBUTION_GRAPH
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak47akshaykulkarni/ak47akshaykulkarni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak47akshaykulkarni/ak47akshaykulkarni/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ak47akshaykulkarni/ak47akshaykulkarni/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 <!--
 **ak47akshaykulkarni/ak47akshaykulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
